@@ -1,0 +1,656 @@
+{
+  "tours": [
+    {
+      "id": "tour-1790357699756-754",
+      "slug": "assam-1790357699756",
+      "title": "Assam: Wild Brahmaputra & Tea Highlands",
+      "destination": "Assam",
+      "category": "Domestic",
+      "theme": "Nature",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357698/tour-packages/assam-1790357697665.jpg",
+      "cloudinaryPublicId": "tour-packages/assam-1790357697665",
+      "overview": "Explore Kaziranga National Park, home to the Great One-Horned Rhinoceros, ancient tea estates in Jorhat, and serene river sunsets along the Brahmaputra.",
+      "tagline": "Wildlife sanctuaries, lush tea estates & royal Brahmaputra river trails.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357698/tour-packages/assam-1790357697665.jpg"
+      ],
+      "highlights": [
+        "Kaziranga VIP Safari",
+        "Heritage Tea Estate Stay",
+        "Brahmaputra Sunset Cruise"
+      ],
+      "weatherInfo": "Pleasant winter days (12°C - 24°C) with crisp highland breeze.",
+      "bestTimeToVisit": "October to April",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357803500-meghalaya",
+      "slug": "meghalaya-1790357803500",
+      "title": "Meghalaya: Abode of the Clouds & Living Roots",
+      "destination": "Meghalaya",
+      "category": "Domestic",
+      "theme": "Adventure",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357801/tour-packages/meghalaya-1790357801044.jpg",
+      "cloudinaryPublicId": "tour-packages/meghalaya-1790357801044",
+      "overview": "Discover the mystical Double Decker Living Root Bridges, crystalline waters of Umngot River in Dawki, and awe-inspiring Nohkalikai waterfalls in Cherrapunji.",
+      "tagline": "Misty cloud kingdoms, crystalline Dawki river & ancient root bridges.",
+      "duration": "6 Days / 5 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357801/tour-packages/meghalaya-1790357801044.jpg"
+      ],
+      "highlights": [
+        "Living Root Bridges Trek",
+        "Dawki Glass River Boating",
+        "Cherrapunji Waterfalls"
+      ],
+      "weatherInfo": "Misty and invigorating (10°C - 22°C) with scenic rainforest terrain.",
+      "bestTimeToVisit": "September to May",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357701906-938",
+      "slug": "kenya-1790357701906",
+      "title": "Kenya: Great Migration & African Safari Odyssey",
+      "destination": "Kenya",
+      "category": "International",
+      "theme": "Adventure",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357700/tour-packages/kenya-1790357701057.jpg",
+      "cloudinaryPublicId": "tour-packages/kenya-1790357701057",
+      "overview": "Witness the iconic Big Five across the legendary Maasai Mara savannah, hot air balloon flights at sunrise, and luxury tented safari camps under starlit skies.",
+      "tagline": "Untamed African savannahs, Big Five safaris & luxury savannah camps.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357700/tour-packages/kenya-1790357701057.jpg"
+      ],
+      "highlights": [
+        "Maasai Mara Big Five Game Drives",
+        "Sunrise Hot Air Balloon Safari",
+        "Luxury Safari Lodge Stays"
+      ],
+      "weatherInfo": "Sunny and warm savannah days (20°C - 28°C) with cool bush evenings.",
+      "bestTimeToVisit": "July to October (Great Migration) & January to February",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357703207-420",
+      "slug": "japan-1790357703207",
+      "title": "Japan: Imperial Heritage, Tokyo Lights & Mount Fuji",
+      "destination": "Japan",
+      "category": "International",
+      "theme": "Cultural",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357701/tour-packages/japan-1790357702307.jpg",
+      "cloudinaryPublicId": "tour-packages/japan-1790357702307",
+      "overview": "Immerse yourself in neon-lit Tokyo, serene Kyoto zen temples, traditional Onsen ryokan stays, and breathtaking panoramic views of Mount Fuji.",
+      "tagline": "Ancient Kyoto shrines, futuristic Tokyo & majestic Mount Fuji vistas.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357701/tour-packages/japan-1790357702307.jpg"
+      ],
+      "highlights": [
+        "Mount Fuji 5th Station Excursion",
+        "Kyoto Fushimi Inari & Arashiyama",
+        "Bullet Train Shinkansen Experience"
+      ],
+      "weatherInfo": "Mild spring/autumn temperatures (14°C - 22°C).",
+      "bestTimeToVisit": "March to May (Cherry Blossom) & October to November (Autumn Foliage)",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357704538-139",
+      "slug": "philippines-1790357704538",
+      "title": "Philippines: Palawan Turquoise Lagoons & El Nido Islands",
+      "destination": "Philippines",
+      "category": "International",
+      "theme": "Honeymoon",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357703/tour-packages/philippines-1790357703612.jpg",
+      "cloudinaryPublicId": "tour-packages/philippines-1790357703612",
+      "overview": "Island-hop through emerald karst lagoons, pristine white coral sandbars, and secret beach sanctuaries in El Nido, Coron, and Boracay.",
+      "tagline": "Emerald karst lagoons, hidden white beaches & tropical island escapes.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357703/tour-packages/philippines-1790357703612.jpg"
+      ],
+      "highlights": [
+        "Private Catamaran Island Hopping",
+        "Hidden Lagoon Sea Kayaking",
+        "Overwater Villa Resorts"
+      ],
+      "weatherInfo": "Tropical sunshine (26°C - 32°C) with refreshing sea breezes.",
+      "bestTimeToVisit": "November to May",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357705766-592",
+      "slug": "azerbaijan-1790357705766",
+      "title": "Azerbaijan: Land of Fire & Caspian Grandeur",
+      "destination": "Azerbaijan",
+      "category": "International",
+      "theme": "Cultural",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357704/tour-packages/azerbaijan-1790357704939.jpg",
+      "cloudinaryPublicId": "tour-packages/azerbaijan-1790357704939",
+      "overview": "Experience Baku’s futuristic Flame Towers alongside UNESCO Old City streets, mud volcanoes of Gobustan, and the alpine grandeur of Shahdag mountain resort.",
+      "tagline": "Futuristic Baku architecture, ancient Silk Road towers & Caucasus peaks.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357704/tour-packages/azerbaijan-1790357704939.jpg"
+      ],
+      "highlights": [
+        "Baku Flame Towers & Old City Trail",
+        "Gobustan Rock Art & Mud Volcanoes",
+        "Shahdag Caucasus Mountain Retreat"
+      ],
+      "weatherInfo": "Pleasant Mediterranean-like climate (18°C - 26°C).",
+      "bestTimeToVisit": "April to June & September to November",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357707045-448",
+      "slug": "uzbekistan-1790357707045",
+      "title": "Uzbekistan: Jewel of the Great Silk Road",
+      "destination": "Uzbekistan",
+      "category": "International",
+      "theme": "Cultural",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357705/tour-packages/uzbekistan-1790357706176.jpg",
+      "cloudinaryPublicId": "tour-packages/uzbekistan-1790357706176",
+      "overview": "Journey back in time through the sapphire and turquoise tiled madrasahs of Samarkand Registan, the historic minarets of Bukhara, and Khiva oasis.",
+      "tagline": "Sapphire dome madrasahs, ancient Silk Road trade routes & Registan marvels.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357705/tour-packages/uzbekistan-1790357706176.jpg"
+      ],
+      "highlights": [
+        "Samarkand Registan Square VIP Tour",
+        "Bukhara Ancient Fortress & Caravanserai",
+        "Afrasiyab High-Speed Rail Experience"
+      ],
+      "weatherInfo": "Crisp, sunny days (16°C - 25°C) with clear blue skies.",
+      "bestTimeToVisit": "March to May & September to November",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": "tour-1790357708377-906",
+      "slug": "europe-1790357708377",
+      "title": "Europe: Grand Alpine Splendor & Classic Capitals",
+      "destination": "Europe",
+      "category": "International",
+      "theme": "Luxury",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357706/tour-packages/europe-1790357707453.jpg",
+      "cloudinaryPublicId": "tour-packages/europe-1790357707453",
+      "overview": "An extraordinary grand voyage across Swiss snow-capped peaks, Paris boulevard romance, Venice gondola canals, and Roman architectural wonders.",
+      "tagline": "Swiss alpine peaks, Parisian glamour & romantic Venetian waterways.",
+      "duration": "7 Days / 6 Nights",
+      "currency": "USD",
+      "featured": true,
+      "isActive": true,
+      "galleryImages": [
+        "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357706/tour-packages/europe-1790357707453.jpg"
+      ],
+      "highlights": [
+        "Swiss Jungfraujoch Top of Europe",
+        "Paris Seine River Champagne Cruise",
+        "Rome & Vatican Private Tour"
+      ],
+      "weatherInfo": "Delightful summer and spring weather (18°C - 26°C).",
+      "bestTimeToVisit": "April to October",
+      "inclusions": [
+        "Premium Accommodation",
+        "Private Airport Transfers",
+        "Dedicated English Speaking Guide",
+        "Daily Gourmet Breakfast"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses & Tips",
+        "Travel Insurance"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "girls trip",
+      "destination": "thailand",
+      "eventDate": "2026-11-01",
+      "image": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790355458/fixed-departure-events/girls-trip-1790355456385.jpg",
+      "cloudinaryPublicId": "fixed-departure-events/girls-trip-1790355456385",
+      "description": "girls trip",
+      "price": 0,
+      "duration": "5 days ",
+      "seatsTotal": 12,
+      "seatsRemaining": 6,
+      "status": "active",
+      "category": "International",
+      "highlights": [
+        "VIP Hotel Stays",
+        "Private Sightseeing",
+        "Certified Guide"
+      ],
+      "id": "event-1790355468833"
+    },
+    {
+      "id": "event-kashmir-autumn",
+      "title": "Kashmir Autumn Gold & Saffron Harvest Expedition",
+      "destination": "Kashmir, India",
+      "eventDate": "2026-09-20",
+      "endDate": "2026-09-26",
+      "image": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1200&q=85",
+      "description": "Join an intimate 12-traveler expedition witnessing the legendary golden chinar tree foliage and the annual saffron bloom in Pampore valley.",
+      "price": 1450,
+      "duration": "7 Days",
+      "seatsTotal": 12,
+      "seatsRemaining": 4,
+      "status": "active",
+      "category": "Domestic",
+      "highlights": [
+        "Saffron farm harvest experience",
+        "Dal Lake golden hour private houseboat",
+        "Gulmarg gondola access"
+      ]
+    },
+    {
+      "id": "event-andaman-coral",
+      "title": "Andaman Deep Blue Coral Safari & Bioluminescent Night Kayaking",
+      "destination": "Andaman Islands",
+      "eventDate": "2026-11-05",
+      "endDate": "2026-11-11",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85",
+      "description": "Exclusive scuba and marine expedition on Swaraj Dweep with night mangrove bioluminescence tours and private beach cabana living.",
+      "price": 1390,
+      "duration": "7 Days",
+      "seatsTotal": 10,
+      "seatsRemaining": 6,
+      "status": "active",
+      "category": "Domestic",
+      "highlights": [
+        "Bioluminescent night kayaking",
+        "Private scuba diving instruction",
+        "Radhanagar sunset champagne"
+      ]
+    },
+    {
+      "id": "event-vietnam-summer-past",
+      "title": "Vietnam Summer Monsoon Cultural Trail (Past Expedition)",
+      "destination": "Vietnam",
+      "eventDate": "2026-08-25",
+      "endDate": "2026-08-31",
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=85",
+      "description": "A completed summer expedition across central Vietnam ancient citadels.",
+      "price": 1950,
+      "duration": "7 Days",
+      "seatsTotal": 12,
+      "seatsRemaining": 0,
+      "status": "active",
+      "category": "International",
+      "highlights": [
+        "Hanoi street culinary",
+        "Ha Long Bay sailing"
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "id": "promo-1",
+      "destination": "Bali, Indonesia",
+      "tagline": "Experience the Island of the Gods in Pure Opulence",
+      "description": "Immerse yourself in secluded jungle pool villas in Ubud, private yacht cruises across Nusa Penida, sacred water blessings, and Michelin-tier cliffside dining in Uluwatu.",
+      "travelDate": "September 30",
+      "duration": "7 Days / 6 Nights",
+      "price": 1899,
+      "originalPrice": 2450,
+      "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1920&q=85",
+      "highlights": [
+        "Private Floating Breakfast in Ayung River Valley Villa",
+        "VIP Luxury Yacht Charter to Nusa Penida & Crystal Bay",
+        "Helicopter Aerial Tour of Mount Batur Volcano",
+        "Exclusive Sunset Access at Uluwatu Cliff Temple"
+      ],
+      "isActive": true,
+      "slug": "bali-luxury-island-escape",
+      "badge": "Featured Voyage of the Month"
+    },
+    {
+      "id": "promo-3",
+      "destination": "Vietnam Odyssey & Ha Long Bay",
+      "tagline": "Emerald Karsts, Imperial Citadels & Golden Lanterns",
+      "description": "Cruise emerald waters aboard a 5-star presidential junk boat, explore the glowing lantern streets of ancient Hoi An, and savor curated French-Indochine culinary masterclasses.",
+      "travelDate": "November 10",
+      "duration": "8 Days / 7 Nights",
+      "price": 2150,
+      "originalPrice": 2790,
+      "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1920&q=85",
+      "highlights": [
+        "2-Night Luxury Cruise on Lan Ha & Ha Long Bay",
+        "Private Street Food Tasting in Hanoi Old Quarter",
+        "Hoi An UNESCO Heritage Walking Tour & Lantern Making",
+        "Ba Na Hills Golden Bridge Early Morning VIP Access"
+      ],
+      "isActive": false,
+      "slug": "vietnam-grand-indochine",
+      "badge": "Culinary & Culture Special"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "boys trip",
+      "location": "coimbatore ",
+      "category": "International",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790355503/gallery/1790355501885.jpg",
+      "cloudinaryPublicId": "gallery/1790355501885",
+      "aspectRatio": "wide",
+      "featured": true,
+      "id": "gal-1790355536795"
+    }
+  ],
+  "services": [
+    {
+      "id": "serv-domestic",
+      "title": "Domestic Tours",
+      "slug": "domestic-tours",
+      "category": "Tours",
+      "shortDesc": "Handcrafted customized holiday packages across India, including Assam, Andaman, Kashmir, Sikkim, and Darjeeling.",
+      "fullDesc": "Experience the sublime diversity of India with our tailored domestic tours. From the serene houseboats and saffron valleys of Kashmir to the tropical coral reefs of Andaman, the misty tea hills of Darjeeling & Sikkim, and wildlife safaris in Assam, every journey is planned around your exact dates and pacing.",
+      "iconName": "Compass",
+      "imageUrl": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Kashmir, Andaman, Assam, Sikkim & Darjeeling",
+        "Customized dates and flexible duration",
+        "Handpicked accommodations and resorts",
+        "24/7 dedicated concierge assistance"
+      ],
+      "isActive": true,
+      "tag": "Popular"
+    },
+    {
+      "id": "serv-international",
+      "title": "International Tours",
+      "slug": "international-tours",
+      "category": "Tours",
+      "shortDesc": "Curated international holidays to Bangkok, Pattaya, Bali, and Vietnam designed for couples, families, and groups.",
+      "fullDesc": "Embark on extraordinary international voyages designed around your schedule. Explore ancient Siamese temples and riverfronts in Bangkok, coastal serenity in Pattaya, sacred jungle sanctuaries in Bali, and emerald karst bays in Vietnam. We handle all logistics from start to finish.",
+      "iconName": "Globe",
+      "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Bangkok, Pattaya, Bali & Vietnam",
+        "Tailored itineraries with seamless coordination",
+        "Premium stays and verified local guides",
+        "End-to-end holiday support"
+      ],
+      "isActive": true,
+      "tag": "Featured"
+    },
+    {
+      "id": "serv-visa",
+      "title": "Passport & Visa Assistance",
+      "slug": "passport-visa-assistance",
+      "category": "Travel Logistics",
+      "shortDesc": "Hassle-free document verification, visa application guidance, and appointment scheduling for international travel.",
+      "fullDesc": "Navigating international travel requirements is stress-free with our dedicated documentation team. We provide complete guidance for tourist visas, e-visas, passport renewals, application forms, documentation checks, and biometric appointment scheduling for all our international destinations.",
+      "iconName": "ShieldCheck",
+      "imageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Tourist visa & e-visa assistance",
+        "Document verification & checklist review",
+        "Passport application & renewal guidance",
+        "Biometrics & appointment coordination"
+      ],
+      "isActive": true,
+      "tag": "Essential"
+    },
+    {
+      "id": "serv-forex",
+      "title": "Foreign Exchange",
+      "slug": "foreign-exchange",
+      "category": "Travel Logistics",
+      "shortDesc": "Seamless foreign currency exchange, multi-currency travel forex cards, and competitive exchange rates for your international journeys.",
+      "fullDesc": "Prepare for your international travels with complete financial peace of mind. We provide hassle-free foreign exchange solutions including genuine multi-currency forex travel cards, cash foreign currency notes in all major global denominations (USD, EUR, GBP, SGD, AED, THB, JPY, and more), zero-margin transparent rates, and doorstep delivery for effortless travel readiness.",
+      "iconName": "Banknote",
+      "imageUrl": "https://res.cloudinary.com/utdl8qrw/image/upload/v1790357832/services/foreign-exchange-1790357831767.jpg",
+      "features": [
+        "Multi-currency travel forex cards",
+        "Major international foreign currencies available",
+        "Competitive, transparent live exchange rates",
+        "Swift processing & doorstep currency delivery"
+      ],
+      "isActive": true,
+      "tag": "Forex"
+    },
+    {
+      "id": "serv-flights",
+      "title": "Flight Ticket Booking",
+      "slug": "flight-ticket-booking",
+      "category": "Travel Logistics",
+      "shortDesc": "Domestic and international flight ticketing with optimal routings, seat selections, and competitive airfares.",
+      "fullDesc": "We manage your domestic and international air travel with meticulous attention to connection times, baggage allowances, and flight comfort. Whether traveling solo, with family, or in large groups, our travel planners secure the best itineraries for your schedule.",
+      "iconName": "Plane",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Domestic & international air tickets",
+        "Optimal flight connections & schedules",
+        "Group bookings & baggage support",
+        "Instant confirmation & flight updates"
+      ],
+      "isActive": true,
+      "tag": "Ticketing"
+    },
+    {
+      "id": "serv-transit",
+      "title": "Train & Bus Ticket Booking",
+      "slug": "train-bus-ticket-booking",
+      "category": "Travel Logistics",
+      "shortDesc": "Confirmed train reservations, luxury sleeper bus tickets, and inter-city transit coordination for seamless journeys.",
+      "fullDesc": "Experience hassle-free rail and bus reservations across India. From premium Vande Bharat and Rajdhani train bookings to AC sleeper bus reservations, we ensure comfortable land transit perfectly synchronized with your overall holiday itinerary.",
+      "iconName": "Train",
+      "imageUrl": "https://images.unsplash.com/photo-1532105956626-9569c03602f6?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Confirmed train ticket reservations",
+        "AC sleeper & executive bus bookings",
+        "Inter-city transit schedule alignment",
+        "Station assistance & travel updates"
+      ],
+      "isActive": true,
+      "tag": "Convenient"
+    },
+    {
+      "id": "serv-hotels",
+      "title": "Hotel Booking",
+      "slug": "hotel-booking",
+      "category": "Travel Logistics",
+      "shortDesc": "Handpicked hotels, heritage stays, and luxury villas booked at verified partner rates suited to your preference.",
+      "fullDesc": "Rest easy in carefully vetted accommodations that match your style and budget. From boutique tea estate bungalows in Darjeeling and Assam to heritage houseboats in Kashmir, private pool villas in Bali, and beachfront resorts in Andaman, Pattaya, and Vietnam, we secure the finest rooms.",
+      "iconName": "Hotel",
+      "imageUrl": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Heritage houseboats, tea bungalows & resorts",
+        "Private villas & top-tier star hotels",
+        "Room preferences & early check-in requests",
+        "Breakfast and meal plan coordination"
+      ],
+      "isActive": true,
+      "tag": "Hospitality"
+    },
+    {
+      "id": "serv-school",
+      "title": "School Group Tours",
+      "slug": "school-group-tours",
+      "category": "Special Travel",
+      "shortDesc": "Safe, organized, and educational group tours for schools and colleges fostering learning and team spirit.",
+      "fullDesc": "We design inspiring and secure educational journeys for schools, universities, and student institutions. Every tour prioritizes student safety, vetted accommodations, wholesome meals, certified tour guides, and structured educational and cultural itineraries.",
+      "iconName": "GraduationCap",
+      "imageUrl": "https://images.unsplash.com/photo-1526711657229-e7e080ed7aa1?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Safety-first protocols & trusted supervision",
+        "Educational, historical & science itineraries",
+        "Dedicated group tour coordinators",
+        "Customized student group packages"
+      ],
+      "isActive": true,
+      "tag": "Education"
+    },
+    {
+      "id": "serv-corporate",
+      "title": "Corporate Group Travel",
+      "slug": "corporate-group-travel",
+      "category": "Special Travel",
+      "shortDesc": "Comprehensive corporate offsites, executive retreats, team building tours, and MICE travel management.",
+      "fullDesc": "Elevate your team retreats and corporate travel with our end-to-end planning. From annual offsites in Kashmir and Bali to corporate delegations in Bangkok and Vietnam, we orchestrate meeting spaces, team-building excursions, flights, accommodations, and banquets.",
+      "iconName": "Briefcase",
+      "imageUrl": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1200&q=85",
+      "features": [
+        "Corporate retreats & team-building events",
+        "MICE travel & conference coordination",
+        "Group flight & hotel reservations",
+        "Dedicated account manager"
+      ],
+      "isActive": true,
+      "tag": "Corporate"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-2",
+      "name": "Dr. Rajiv Malhotra & Family",
+      "role": "Senior Consultant Surgeon",
+      "destination": "Kashmir: Crown of Paradise",
+      "rating": 5,
+      "review": "The cedarwood houseboat on Nigeen Lake was peaceful and majestic. Having dedicated travel coordination and local guidance made traveling with elderly parents effortless. The Kashmiri Wazwan dinner was unforgettable.",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+      "tourDate": "July 2026",
+      "verified": true
+    },
+    {
+      "id": "test-3",
+      "name": "Elena Rostova",
+      "role": "Creative Director",
+      "destination": "Vietnam: Grand Indochine Odyssey",
+      "rating": 5,
+      "review": "Ha Long Bay aboard the private balcony suite cruise exceeded all expectations. Floating through misty karst islands while sipping champagne felt like a movie scene. Everything was punctual and ultra-luxurious.",
+      "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
+      "tourDate": "June 2026",
+      "verified": true
+    },
+    {
+      "id": "test-4",
+      "name": "Marcus & Sophia Vance",
+      "role": "Tech Entrepreneurs",
+      "destination": "Andaman Turquoise Atolls",
+      "rating": 5,
+      "review": "Night kayaking through glowing bioluminescent mangroves in Havelock was pure magic. The Taj Exotica villa was heavenly, and the concierge arranged every single detail flawlessly via WhatsApp.",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
+      "tourDate": "May 2026",
+      "verified": true
+    }
+  ],
+  "siteSettings": {
+    "websiteName": "Majestic Voyages",
+    "tagline": "Your Journey, Your Way — Customized Travel Packages from Erode",
+    "logoText": "MAJESTIC VOYAGES",
+    "phone": "+91 9842801103",
+    "email": "concierge@majesticvoyages.com",
+    "whatsappNumber": "9842801103",
+    "defaultWhatsappMessage": "Hello Majestic Voyages, I would like to plan a customized journey. Please help me with available packages and dates.",
+    "address": "Erode, Tamil Nadu, India",
+    "workingHours": "Mon - Sat: 9:00 AM - 7:00 PM | WhatsApp: Anytime",
+    "socials": {
+      "instagram": "https://instagram.com/majesticvoyages",
+      "facebook": "https://facebook.com/majesticvoyages",
+      "youtube": "https://youtube.com/majesticvoyages",
+      "twitter": "https://twitter.com/majesticvoyages",
+      "linkedin": "https://linkedin.com/company/majesticvoyages"
+    },
+    "experienceYears": 9,
+    "happyTravelers": 5000,
+    "destinationsCount": 9,
+    "satisfactionRate": 99
+  }
+}

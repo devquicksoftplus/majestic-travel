@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#283760"/>
+      <stop offset="100%" stop-color="#19233D"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD466"/>
+      <stop offset="100%" stop-color="#F9B82E"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Container: Deep Navy Squircle with Gold Border for perfect visibility on all tab themes -->
+  <rect x="5" y="5" width="118" height="118" rx="28" fill="url(#bgGrad)" stroke="#F9B82E" stroke-width="5"/>
+
+  <!-- Compass / North Star at top in Crisp White -->
+  <g filter="url(#shadow)">
+    <polygon points="64,15 67,23 75,25 68,29 70,37 64,32 58,37 60,29 53,25 61,23" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Bold 'M' (Majestic) in warm radiant Gold -->
+  <g filter="url(#shadow)">
+    <path d="M 23,96 L 23,36 L 43,65 L 64,43 L 85,65 L 105,36 L 105,96 L 89,96 L 89,61 L 74,77 L 54,77 L 39,61 L 39,96 Z" fill="url(#goldGrad)"/>
+  </g>
+
+  <!-- 'T' (Travel) Monogram & Compass Mast in Pure White -->
+  <g filter="url(#shadow)">
+    <path d="M 44,35 L 84,35 L 84,45 L 70,45 L 70,89 L 58,89 L 58,45 L 44,45 Z" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Center Navigational Pivot -->
+  <circle cx="64" cy="56" r="3" fill="#283760"/>
+  <circle cx="64" cy="56" r="1.5" fill="#F9B82E"/>
+</svg>
