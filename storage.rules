@@ -1,0 +1,17 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Helper function to check if the user is the authorized administrator
+    function isAuthorizedAdmin() {
+      return request.auth != null && 
+             request.auth.token.email == 'ssfoods.erode@gmail.com';
+    }
+
+    // Public website assets - Public read, Admin upload/edit/delete
+    match /{allPaths=**} {
+      allow read: if true;
+      allow write: if isAuthorizedAdmin();
+    }
+  }
+}
